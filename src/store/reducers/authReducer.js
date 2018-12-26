@@ -1,5 +1,3 @@
-import { stat } from "fs";
-
 const initState = {
   authError: null
 }
